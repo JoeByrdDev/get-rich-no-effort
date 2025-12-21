@@ -1,0 +1,9 @@
+Small dispensaries in legalized states
+-> Looks like a lot of work for each new state's laws and keeping up to date with them
+-> Simplifya does have the "ambiguous demo" stuff, we could easier payment models
+-> actual legal compliance would be too expensive or risky
+
+ChatGPT responds to the compliance concern that it would be 1-5k for a lawyer per state per year for retainer. I'm going to want more explanation on this just for my own sake, to see if it's making a reasonable claim. 
+It still requires way too much liability, like insurance and stuff. No way. 
+
+Well, if I built something, maybe it'd be possible to find partners. ChatGPT offers pursuing a partnership with a legal firm, but how much time we'd need to invest to have to consider all that extra would be dumb. Not sure a firm would need or want to share profits and liability, even if it provided a small multiplier on clientele. Kinda cool idea I guess, not for me.

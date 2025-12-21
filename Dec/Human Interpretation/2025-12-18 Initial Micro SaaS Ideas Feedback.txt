@@ -1,0 +1,38 @@
+I prompted the AI for SaaS ideas, specifically targeting researched market weaknesses. The AI today is as good as it's ever been, let's see if anything it says makes sense and is compelling. Our advantages are that many don't recognize how quickly this stuff is advancing, and we have lots of experience actually creating real value applications for businesses. So, there are likely enough tailor-made ai products or little web apps that could make money that can be produced still before... you know.
+
+As an aside, I think I need to try to work out a pipeline for evaluating these ideas, because I think there are a lot of issues to address, learn from, and then apply human idea making abilities and interests to do something awesome.
+
+So, it's ideas are:
+1. AI website accessibility helper
+2. Trade School LMS (Learning Management System)
+3. Microbrewery Supply Chain
+4. Pet Groomer Platform (REJECTED)
+5. Cannabis Compliance
+6. Elder Care Coordination
+7. Freelancer Insurance 
+8. Farm-to-Table Network
+9. Subscription Box Ops
+
+AI website accessibility helper is extremely interesting. I think it would let me
+a) create something good that leads to exposure 
+b) learn about multiple AI evaluation techniques
+How would this be implemented? Cloud-hosted AI processing? Locally configured LLM? Browser plugin? Point to your website from our website (well duh its a SaaS)?
+
+Trade School LMS
+I tend to shy away from anything remotely close to liability. We'd need to be or hire experts on very important policy. However, something created could be sold, etc. I'm not sure.
+
+Microbrewery Supply Chain
+There could be a safe, simple logistics problem here. I'd need to know more about how we'd expect to help track it, whether that'd be a huge undertaking for too small of a niche without aggressive pricing.
+
+Can't do Pet Groomer Platform, so that one is out.
+
+Cannabis Compliance
+Compliance is good but drugs is a bad business. I still need to ask it about Simplifya and such because that looks like a saturated market despite my instructions.
+I don't like it for time and liability reasons. 
+
+Elder Care Coordination
+Cool idea. I think there are a lot of offerings. I need to ask the AI why it thinks the market isn't saturated specifically. Looking at something like getsense.ai, I am starting to suspect that my current approach is around 3 months late, and will need to catch up to computer science app development methodologies.
+This one is very interesting. I found another app, 2 years old, that has like everything. I am probing the AI for its reasoning for why it thinks there'd be any market for a copy, and whether it thinks our methodology is indeed 2 years behind.
+
+
+I wonder if the AI had this impression trained into the model before, and others already used the answers to spawn a bunch of apps from a large percentage of what it would provide. Speed to potential market is really fast. I should consider how to optimize for sure, steady, unglamourous - as the ai suggested before.

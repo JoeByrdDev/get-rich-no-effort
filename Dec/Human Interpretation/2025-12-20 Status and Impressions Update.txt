@@ -1,0 +1,18 @@
+Research can be discouraging, but I know something good comes at the end of this process.
+
+I am pivoting directions a little bit - I have decided that AI is not a good source of business ideas, as any idea it has it has already given someone else - and in fact is only in the system because someone already pointed it out. Glad that didn't take TOO long to figure out. Instead, I am pivoting to bug bounties, opensource development, things like that. 
+
+This is good - the ideas it mentions DO seem pretty app-saturated, meaning that others got sucked into the same line of thinking and carried it all the way into production and advertisement. It's important not to downplay that these DO make some money, but I'm not sure it's worth the effort in those markets. 
+
+I am going to try pointing ChatGPT toward finding openly-advertised opportunities, like bug bounties or open source contribution. 
+
+I don't want to stay stuck in infinite planning mode, but I do feel the ideas coalescing into a useful direction.
+
+Top project ideas from my own head:
+1. Resume
+2. Personal Website
+3. AI chatbot
+4. AI toolchain
+5. Game
+
+It is relieving that chatgpt isn't quite that good yet
